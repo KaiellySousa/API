@@ -1,4 +1,4 @@
-import { db } from '../../../firebase';
+import { db } from '@/firebase';
 import { collection, addDoc, getDocs } from 'firebase/firestore';
 
 // GET - Lista de mensagens do Firestore
