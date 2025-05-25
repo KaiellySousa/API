@@ -1,4 +1,4 @@
-# 🚀 API de Gerenciamento de Dados - Gatonautas- Trabalho
+# API de Gerenciamento de Dados - Gatonautas- Trabalho
 
 Primeira API feita por mim.Sinta-se livre para colaborar, mas, caso realize melhorias ou utilize partes deste código, por favor, mantenha os devidos créditos.
 
