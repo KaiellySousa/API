@@ -51,18 +51,6 @@ CONVERTKIT_API_SECRET= SUA_API_SECRET_CONVERTKIT
 Este repositório contém uma API desenvolvida por **Kaielly Sousa** como parte de um **trabalho acadêmico**.  
 O projeto tem como objetivo o desenvolvimento e prática de conceitos aprendidos na faculdade, aplicando ferramentas modernas de desenvolvimento web.
 
-## 🚀 Tecnologias e Ferramentas Utilizadas
-
-- **Node.js**
-- **Next.js**
-- **Firebase** (Firestore Database)
-- **JavaScript**
-
-## 📁 Configuração do Ambiente
-
-Antes de executar o projeto, é necessário configurar um arquivo `.env.local` na raiz com suas credenciais do Firebase e outras configurações necessárias.  
-⚠️ As credenciais não estão expostas neste repositório por questões de segurança.
-
 ##Executando o Projeto Localmente
 
 1. Instale as dependências:
